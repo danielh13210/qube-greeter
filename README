@@ -1,3 +1,3 @@
-This is a custom lightdm greeter for use on Raspberry Pi.
+This is a custom lightdm greeter for use on Qubes OS.
 
 To build, run autogen.sh, then ./configure and make.
